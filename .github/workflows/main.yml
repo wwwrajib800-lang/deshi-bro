@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="bn">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>দেশী ব্রো — ইসলামীক Shorts</title>
+
+  <style>
+    body {
+      background-color: #f2f2f2;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 20px 10px;
+    }
+
+    .container {
+      background-color: white;
+      padding: 20px;
+      border-radius: 15px;
+      max-width: 500px;
+      margin: auto;
+    }
+
+    h1 {
+      color: #111;
+      font-size: 30px;
+    }
+
+    p {
+      color: #555;
+      font-size: 18px;
+      line-height: 1.6;
+    }
+
+    .video {
+      max-width: 350px;
+      margin: 20px auto;
+    }
+
+    .video iframe {
+      width: 100%;
+      height: 600px;
+      border: none;
+      border-radius: 15px;
+    }
+
+    .btn {
+      display: inline-block;
+      background-color: red;
+      color: white;
+      padding: 14px 25px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-size: 18px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+
+    <h1>দেশী ব্রো — ইসলামীক Shorts</h1>
+
+    <p>
+      ইসলামীক জ্ঞান, নসিহত ও সুন্দর ছোট ভিডিও
+      দেখতে আমাদের চ্যানেলে স্বাগতম।
+    </p>
+
+    <div class="video">
+      <iframe
+        src="https://www.youtube.com/embed/j8BccDm5hWY"
+        title="আমার YouTube Shorts"
+        allowfullscreen>
+      </iframe>
+    </div>
+
+    <a
+      href="https://youtube.com/@deshi_bro_36"
+      target="_blank"
+      class="btn">
+      ▶ এখনই চ্যানেল দেখুন
+    </a>
+
+  </div>
+
+</body>
+
+</html>
